@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Blood-donation-react-app/static/css/main.c74af3f4.chunk.css",
+    "main.js": "/Blood-donation-react-app/static/js/main.4c966ce3.chunk.js",
+    "main.js.map": "/Blood-donation-react-app/static/js/main.4c966ce3.chunk.js.map",
+    "runtime-main.js": "/Blood-donation-react-app/static/js/runtime-main.57b92d13.js",
+    "runtime-main.js.map": "/Blood-donation-react-app/static/js/runtime-main.57b92d13.js.map",
+    "static/js/2.a4c2fc56.chunk.js": "/Blood-donation-react-app/static/js/2.a4c2fc56.chunk.js",
+    "static/js/2.a4c2fc56.chunk.js.map": "/Blood-donation-react-app/static/js/2.a4c2fc56.chunk.js.map",
+    "index.html": "/Blood-donation-react-app/index.html",
+    "static/css/main.c74af3f4.chunk.css.map": "/Blood-donation-react-app/static/css/main.c74af3f4.chunk.css.map",
+    "static/js/2.a4c2fc56.chunk.js.LICENSE.txt": "/Blood-donation-react-app/static/js/2.a4c2fc56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57b92d13.js",
+    "static/js/2.a4c2fc56.chunk.js",
+    "static/css/main.c74af3f4.chunk.css",
+    "static/js/main.4c966ce3.chunk.js"
+  ]
+}
